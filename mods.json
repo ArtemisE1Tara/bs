@@ -84,6 +84,26 @@
          ]
       },
       {
+         "name":"LevelEditor+++",
+         "details":"Easily edit existing beatmaps and make them your own! Includes the 1.22.1 update of the PC version to create and edit arc and chain maps, aka V3 maps!",
+         "ModID":"LevelEditor+++",
+         "creator":[
+            "ArtemisE1Tara"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.0",
+               "gameversion":[
+                  "1.21.0"
+               ],
+               "download":"https://github.com/ArtemisE1Tara/LevelEditor---/releases/download/0.1.0/LevelEditor+++.qmod",
+               "notes":"",
+               "forward":false,
+               "coremod":false
+            }
+         ]
+      },
+      {
          "name":"RandomSongPicker",
          "details":"Adds a button, that picks a random song out of the current list",
          "ModID":"RandomSongPicker",
