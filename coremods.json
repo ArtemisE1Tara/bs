@@ -492,6 +492,12 @@
                 "version": "0.1.0",
                 "downloadLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "filename": "Noodle.qmod"
+            },
+            {
+                "id": "Quosmetacs",
+                "version": "0.1.0",
+                "downloadLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                "filename": "Quosmetacs.qmod"
             }
         ]
     }
