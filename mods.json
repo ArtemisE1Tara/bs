@@ -21,26 +21,6 @@
          ]
       },
       {
-         "name":"ShortSaber",
-         "details":"Change the length of the saber",
-         "ModID":"ShortSaber",
-         "creator":[
-            "Oli"
-         ],
-         "downloads":[
-            {
-               "modversion":"0.1.0",
-               "gameversion":[
-                  "1.24.0"
-               ],
-               "download":"https://github.com/oli-ctrl/ShortSaber/releases/download/v0.1.0/ShortSaber.qmod",
-               "forward":false,
-               "coremod":true,
-               "notes":""
-            }
-         ]
-      },
-      {
          "name":"ParticleTuner",
          "details":"A partial port of the Particle Overdrive mod from PC with colorful sparckles and custom parameters including ambiend dust.",
          "ModID":"ParticleTuner",
