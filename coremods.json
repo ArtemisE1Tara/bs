@@ -475,6 +475,12 @@
                 "version": "1.1.0",
                 "downloadLink": "https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/download/1.1.0/MultiplayerCore1.1.0.qmod",
                 "filename": "MultiplayerCore_v1_1_0.qmod"
+            },
+            {
+                "id": "ShortSaber",
+                "version": "0.1.0",
+                "downloadLink": "https://github.com/oli-ctrl/ShortSaber/releases/download/v0.1.0/ShortSaber.qmod",
+                "filename": "ShortSaber.qmod"
             }
         ]
     }
