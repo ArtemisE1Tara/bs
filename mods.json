@@ -35,7 +35,7 @@
                ],
                "download":"https://github.com/oli-ctrl/ShortSaber/releases/download/v0.1.0/ShortSaber.qmod",
                "forward":false,
-               "coremod":true,
+               "coremod":false,
                "notes":""
             }
          ]
