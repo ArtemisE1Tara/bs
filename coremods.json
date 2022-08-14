@@ -489,13 +489,13 @@
         "mods": [
             {
                 "id": "Noodle Extensions",
-                "version": "0.1.0",
+                "version": "0.10000000.0",
                 "downloadLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "filename": "Noodle.qmod"
             },
             {
                 "id": "Quosmetacs",
-                "version": "0.1.0",
+                "version": "0.112.123.2.0",
                 "downloadLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "filename": "Quosmetacs.qmod"
             }
