@@ -1,6 +1,166 @@
 {
    "mods":[
       {
+         "name":"Thin Sabers",
+         "details":"Make your sabers thin or thick",
+         "ModID":"ThinSabers",
+         "creator":[
+            "Christoffyw"
+         ],
+         "downloads":[
+            {
+               "modversion":"2.6.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://cdn.discordapp.com/attachments/971885016219025518/1008543137288945734/ThinSabers.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"HitScoreVisualizer",
+         "details":"Customize the text of your scores!",
+         "ModID":"HitScoreVisualizer",
+         "creator":[
+            "Metalit"
+         ],
+         "downloads":[
+            {
+               "modversion":"2.6.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Christoffyw/HitScoreVisualizer/releases/download/2.6.0/HitScoreVisualizer.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"JDFixer",
+         "details":"Fancy gameplay setup menu settings\n Changable jump distance, duration, and speed\n Jump distance bounds",
+         "ModID":"JDFixer",
+         "creator":[
+            "Metalit"
+         ],
+         "downloads":[
+            {
+               "modversion":"2.1.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Metalit/QuestJDFixer/releases/download/v2.1.0/JDFixer.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"ClockMod",
+         "details":"Adds an ingame clock with customisable options.",
+         "ModID":"ClockMod",
+         "creator":[
+            "EnderdracheLP"
+         ],
+         "downloads":[
+            {
+               "modversion":"1.6.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/EnderdracheLP/ClockMod/releases/download/1.6.0/ClockMod.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"QuestSounds",
+         "details":"QuestSounds or short QSounds allows you to add Custom Hit Sounds\n and other sounds as well as adding new\n sounds, just drop them into the folder\nand select them in-game!",
+         "ModID":"QuestSounds",
+         "creator":[
+            "EnderdracheLP"
+         ],
+         "downloads":[
+            {
+               "modversion":"1.2.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/EnderdracheLP/QuestSounds/releases/download/1.2.0/QuestSounds.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+      "name":"Faster Scroll",
+      "details":"Find your song faster with this customizable faster scrolling mod.",
+      "ModID":"FasterScroll",
+      "creator":[
+         "Christoffyw"
+      ],
+      "downloads":[
+         {
+            "modversion":"1.6.0",
+            "gameversion":[
+               "1.24.0"
+            ],
+            "download":"https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.6.0/FasterScroll.qmod",
+            "forward":false,
+            "coremod":false,
+            "notes":""
+         }
+      ]
+   },
+      {
+         "name":"Difficulty Saver",
+         "details":"If enabled, the mod will automatically choose the specified\n difficulty when clicking a new song, regardless\n of what difficulty was selected prior.",
+         "ModID":"DifficultySaver",
+         "creator":[
+            "KodenameKRAK"
+         ],
+         "downloads":[
+            {
+               "modversion":"1.0.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/kodenamekrak/DifficultySaver/releases/download/1.0.0/DifficultySaver.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"Image Cover Expander",
+         "details":"Expands the Song Cover in the song selection screen!",
+         "ModID":"ImageCoverExpander",
+         "creator":[
+            "resident ffxiv addict (Raine)"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.2.2",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/raineio/ImageCoverExpander-Quest/releases/latest",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"Custom Pillows",
          "details":"Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC",
          "ModID":"custom-pillows",
