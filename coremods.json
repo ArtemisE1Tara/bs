@@ -483,22 +483,5 @@
                 "filename": "ShortSaber.qmod"
             }
         ]
-    },
-    "1.29.0": {
-        "lastUpdated": "2022-08-13T21:00:00Z",
-        "mods": [
-            {
-                "id": "Noodle Extensions",
-                "version": "0.10000000.0",
-                "downloadLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "filename": "Noodle.qmod"
-            },
-            {
-                "id": "Quosmetacs",
-                "version": "0.112.123.2.0",
-                "downloadLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "filename": "Quosmetacs.qmod"
-            }
-        ]
     }
 }
