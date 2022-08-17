@@ -1,6 +1,146 @@
 {
    "mods":[
       {
+         "name":"SmallQubes",
+         "details":"Your lovely basic cubes but smoll",
+         "ModID":"",
+         "creator":[
+            "NSGolova"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/NSGolova/SmallQubes/releases/download/v0.1.0/SmallQubes.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"BeatLeader",
+         "details":"Posts scores to https://beatleader.xyz/ and shows in-game leaderboards.",
+         "ModID":"",
+         "creator":[
+            "NSGolova"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.4.1",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/BeatLeader/beatleader-qmod/releases/download/v0.4.1/BeatLeader_1_24_0.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"Qounters-",
+         "details":"Spice up your Beat Saber HUD with a variety of configurable Counters Qounter.",
+         "ModID":"",
+         "creator":[
+            "Metalit"
+         ],
+         "downloads":[
+            {
+               "modversion":"1.2.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Metalit/bsq-qounters-minus/releases/download/v1.2.0/Qounters-.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"Promotion Yeeter",
+         "details":"Are you tired to see that music pack promotion button? then wait no longer! This simple mod removes the promotion button and lets you have a clean main menu without the ingame ad! If something doesnt work please DM me on discord :D",
+         "ModID":"",
+         "creator":[
+            "WaffleTheCool"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/WaffleTheCool/PromotionYeeter/releases/download/0.1.0/Promotion.Yeeter.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"RainbowQuest",
+         "details":"This mod makes notes, walls, and on some maps lights, fade rainbow. How fun!",
+         "ModID":"",
+         "creator":[
+            "Unifox"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.1",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/TheUnifox/RainbowQuest/releases/download/v0.1.1/RainbowQuest.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"StopForgettingMyEnvironments",
+         "details":"Make your sabers thin or thick",
+         "ModID":"",
+         "creator":[
+            "Metalit"
+         ],
+         "downloads":[
+            {
+               "modversion":"",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://cdn.discordapp.com/attachments/971885016219025518/1008590591199809586/StopForgettingMySettings.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"Transitions",
+         "details":"Configurably reduces scene transition times and removes the seizure warning when the game starts!",
+         "ModID":"Transitions",
+         "creator":[
+            "Metalit"
+         ],
+         "downloads":[
+            {
+               "modversion":"1.1.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Metalit/Transitions/releases/download/v1.1.0/Transitions.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"Thin Sabers",
          "details":"Make your sabers thin or thick",
          "ModID":"ThinSabers",
