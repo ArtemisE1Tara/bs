@@ -1,6 +1,26 @@
 {
    "mods":[
       {
+         "name":"Slice Details",
+         "details":"yo, its the gander mod!",
+         "ModID":"",
+         "creator":[
+            "resident ffxiv addict (Raine)"
+         ],
+         "downloads":[
+            {
+               "modversion":"1.1.1",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Royston1999/SliceDetails-Quest/releases/tag/1.1.1",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"SmallQubes",
          "details":"Your lovely basic cubes but smoll",
          "ModID":"",
