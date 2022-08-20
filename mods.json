@@ -1,6 +1,66 @@
 {
    "mods":[
       {
+         "name":"Intro Skip",
+         "details":"yknow, skips long intros and outros of songs",
+         "ModID":"",
+         "creator":[
+            "resident ffxiv addict (Raine)"
+         ],
+         "downloads":[
+            {
+               "modversion":"1.0.1",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Royston1999/IntroSkip-Quest/releases/tag/1.0.1",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"Chroma",
+         "details":"This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player. An update of the port of the PC original mod by Kyle 1413. Previously maintained by zoller27osu.",
+         "ModID":"",
+         "creator":[
+            "FernTheDev"
+         ],
+         "downloads":[
+            {
+               "modversion":"2.6.2",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/bsq-ports/Chroma/releases/download/v2.6.2/chroma.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"Noodle Extensions",
+         "details":"This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player. An update of the port of the PC original mod by Kyle 1413. Previously maintained by zoller27osu.",
+         "ModID":"",
+         "creator":[
+            "FernTheDev & StackDoubleFlow"
+         ],
+         "downloads":[
+            {
+               "modversion":"1.2.3",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/StackDoubleFlow/NoodleExtensions/releases/download/v1.2.3/noodle_extensions.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"Slice Details",
          "details":"yo, its the gander mod!",
          "ModID":"",
