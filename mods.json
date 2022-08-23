@@ -282,7 +282,7 @@
       },
       {
          "name":"JDFixer",
-         "details":"Fancy gameplay setup menu settings\n Changable jump distance, duration, and speed\n Jump distance bounds",
+         "details":"Fancy gameplay setup, menu settings, Changable jump distance, duration, and speed Jump distance bounds",
          "ModID":"JDFixer",
          "creator":[
             "Metalit"
@@ -322,7 +322,7 @@
       },
       {
          "name":"QuestSounds",
-         "details":"QuestSounds or short QSounds allows you to add Custom Hit Sounds\n and other sounds as well as adding new\n sounds, just drop them into the folder\nand select them in-game!",
+         "details":"QuestSounds or short QSounds allows you to add Custom Hit Sounds and other sounds as well as adding new sounds, just drop them into the folder and select them in-game!",
          "ModID":"QuestSounds",
          "creator":[
             "EnderdracheLP"
@@ -362,7 +362,7 @@
    },
       {
          "name":"Difficulty Saver",
-         "details":"If enabled, the mod will automatically choose the specified\n difficulty when clicking a new song, regardless\n of what difficulty was selected prior.",
+         "details":"If enabled, the mod will automatically choose the specified difficulty when clicking a new song, regardless of what difficulty was selected prior.",
          "ModID":"DifficultySaver",
          "creator":[
             "KodenameKRAK"
