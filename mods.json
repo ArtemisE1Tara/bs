@@ -1,6 +1,26 @@
 {
    "mods":[
       {
+         "name":"Custom Main Menu",
+         "details":"This is a pretty simple and straightforward mod, it allows you to customize the text on the main menu buttons as seen in the picture below",
+         "ModID":"",
+         "creator":[
+            "Temmie, updated by WaffleTheCool/Elli"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.1",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/WaffleTheCool/CustomMainMenu/releases/download/v0.1.1/CustomMainMenu.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"Intro Skip",
          "details":"yknow, skips long intros and outros of songs",
          "ModID":"",
@@ -53,7 +73,7 @@
                "gameversion":[
                   "1.24.0"
                ],
-               "download":"https://github.com/StackDoubleFlow/NoodleExtensions/releases/download/v1.2.3/noodle_extensions.qmod",
+               "download":"https://github.com/StackDoubleFlow/NoodleExtensions/releases/",
                "forward":false,
                "coremod":false,
                "notes":""
