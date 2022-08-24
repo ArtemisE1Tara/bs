@@ -1,6 +1,26 @@
 {
    "mods":[
       {
+         "name":"LevelEditor+++",
+         "details":"Edit levels on Quest!",
+         "ModID":"",
+         "creator":[
+            "ArtemisE1Tara"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.1",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/ArtemisE1Tara/LevelEditor---/releases/download/0.1.1/Level.Editor+++.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"Custom Main Menu",
          "details":"This is a pretty simple and straightforward mod, it allows you to customize the text on the main menu buttons as seen in the picture below",
          "ModID":"",
