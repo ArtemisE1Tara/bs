@@ -1,6 +1,66 @@
 {
    "mods":[
       {
+         "name":"Qosmetics Boxes",
+         "details":" - Walls from Qosmetics, seperated into a module",
+         "ModID":"",
+         "creator":[
+            "RedBrumbler"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Qosmetics/Qosmetics-Walls/releases/download/v0.1.0/QosmeticsBoxes.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"Qosmetics Cyoobs",
+         "details":"- Bloqs from Qosmetics, seperated into a module\n - Compatible with chains",
+         "ModID":"",
+         "creator":[
+            "RedBrumbler"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Qosmetics/Qosmetics-Notes/releases/download/v0.1.0/QosmeticsCyoobs.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"Qosmetics Whackers",
+         "details":" - Sabers from Qosmetics, seperated into a module",
+         "ModID":"",
+         "creator":[
+            "RedBrumbler"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Qosmetics/Qosmetics-Sabers/releases/download/v0.1.0/QosmeticsWhackers.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"LevelEditor+++",
          "details":"Edit levels on Quest!",
          "ModID":"",
