@@ -1,6 +1,26 @@
 {
    "mods":[
       {
+         "name":"ShortSaber",
+         "details":" - Walls from Qosmetics, seperated into a module",
+         "ModID":"",
+         "creator":[
+            "Oli-ctrl"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.1",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/oli-ctrl/ShortSaber/releases/download/v0.1.1/ShortSabers.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"Qosmetics Boxes",
          "details":" - Walls from Qosmetics, seperated into a module",
          "ModID":"",

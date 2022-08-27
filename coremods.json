@@ -477,12 +477,6 @@
                 "filename": "MultiplayerCore_v1_1_0.qmod"
             },
             {
-                "id": "ShortSaber",
-                "version": "0.1.1",
-                "downloadLink": "https://github.com/oli-ctrl/ShortSaber/releases/download/v0.1.1/ShortSabers.qmod",
-                "filename": "ShortSaber.qmod"
-            },
-            {
                 "id": "mod-list",
                 "version": "0.1.5",
                 "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.5/mod-list_v0.1.5.qmod",
