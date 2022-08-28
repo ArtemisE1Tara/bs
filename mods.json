@@ -1,6 +1,26 @@
 {
    "mods":[
       {
+         "name":"Mapping Extensions",
+         "details":"This adds a host of new things you can do with your maps as a mapper, and allows you to play said maps as a player. An update of the port of the PC original mod by Kyle 1413. Previously maintained by zoller27osu.",
+         "ModID":"",
+         "creator":[
+            "StackDoubleFlow, rxzz0, rcelyte"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.21.1",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/rcelyte/MappingExtensions/releases/download/0.21.1/MappingExtensions.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"ShortSaber",
          "details":"This mod allows for the customisation of all the sabers dimensions (thickness and length)",
          "ModID":"",
