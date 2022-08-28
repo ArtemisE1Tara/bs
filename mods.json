@@ -9,11 +9,11 @@
          ],
          "downloads":[
             {
-               "modversion":"0.21.1",
+               "modversion":"0.21.2",
                "gameversion":[
                   "1.24.0"
                ],
-               "download":"https://github.com/rcelyte/MappingExtensions/releases/download/0.21.1/MappingExtensions.qmod",
+               "download":"https://github.com/rcelyte/MappingExtensions/releases/download/0.21.2/MappingExtensions.qmod",
                "forward":false,
                "coremod":false,
                "notes":""
