@@ -2,7 +2,7 @@
    "mods":[
       {
          "name":"AudioLink",
-         "details":"AudioLink is a system originally made for VRChat, allowing for audio reactive effects. It was ported to Beat Saber as a standalone mod for creators. As of now, the mod is exclusive to this saber post (or the github) and cannot be found anywhere else until Red decides to release it elsewhere.",
+         "details":"AudioLink is a system originally made for VRChat, allowing for audio reactive effects. It was ported to Beat Saber as a standalone mod for creators.",
          "ModID":"",
          "creator":[
             "RedBrumbler"
