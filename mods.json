@@ -1,6 +1,26 @@
 {
    "mods":[
       {
+         "name":"AnyTweaks",
+         "details":"",
+         "ModID":"",
+         "creator":[
+            "Kaitlyn"
+         ],
+         "downloads":[
+            {
+               "modversion":"6.0.0",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/ItsKaitlyn03/AnyTweaks/releases/download/v6.0.0/anytweaks_v6.0.0.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"AudioLink",
          "details":"AudioLink is a system originally made for VRChat, allowing for audio reactive effects. It was ported to Beat Saber as a standalone mod for creators.",
          "ModID":"",
