@@ -342,7 +342,7 @@
       },
       {
          "name":"StopForgettingMyEnvironments",
-         "details":"Make your sabers thin or thick",
+         "details":"This mod prevents your override environment settings from being deleted when you relaunch the game, and now also keeps your boost colors in your color schemes, making that feature actually useful. If beat games doesn't fix these--",
          "ModID":"",
          "creator":[
             "Metalit"
