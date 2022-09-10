@@ -1,6 +1,66 @@
 {
    "mods":[
       {
+         "name":"Full Combo Effects",
+         "details":"Modify the result view when getting full combo. \n- Show a yellow banner with 'FULL COMBO' text \n- Show the same effect as getting a new high score",
+         "ModID":"",
+         "creator":[
+            "darknight1050"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.3",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/darknight1050/CrashReporter/releases/download/v0.1.3/CrashReporter.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"Crash Reporter",
+         "details":"Automatically uploads crashes to https://analyzer.questmodding.com/crashes (Publicly Visible)",
+         "ModID":"",
+         "creator":[
+            "darknight1050"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.1.3",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/darknight1050/CrashReporter/releases/download/v0.1.3/CrashReporter.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
+         "name":"RandomSongPicker",
+         "details":"Adds a random song button, that selects a random song in the list.",
+         "ModID":"",
+         "creator":[
+            "Tatenshi"
+         ],
+         "downloads":[
+            {
+               "modversion":"0.2.1",
+               "gameversion":[
+                  "1.24.0"
+               ],
+               "download":"https://github.com/Tatenshi/RandomSongPicker/releases/download/v0.2.1/RandomSongPicker_1_24_0.qmod",
+               "forward":false,
+               "coremod":false,
+               "notes":""
+            }
+         ]
+      },
+      {
          "name":"AnyTweaks",
          "details":"",
          "ModID":"",
